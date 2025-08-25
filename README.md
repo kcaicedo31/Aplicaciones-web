@@ -57,3 +57,40 @@ Un selector en CSS es el patrón que se usa para seleccionar los elementos HTML 
 * **Selector de ID:** Selecciona un elemento único por su atributo `id` (ej. `#mi-id`).
 * **Selector de atributos:** Selecciona elementos que tienen un atributo específico.
 
+---
+
+## 7. ¿Qué es JavaScript y cómo añade la interactividad a las páginas web?
+JavaScript es un lenguaje de programación que se ejecuta en el navegador.
+
+#### Permite añadir dinamismo e interactividad, como:
+- Validar formularios.
+- Crear animaciones.
+- Modificar elementos en tiempo real.
+- Manejar eventos (clics, teclas, etc.).
+
+---
+
+## 8. ¿Cuáles son los tipos de datos primitivos en JavaScript?
+Los tipos de datos primitivos son la base del lenguaje. JavaScript tiene siete tipos primitivos:
+- string → cadenas de texto.
+- number → números (enteros y decimales).
+- boolean → verdadero o falso.
+- null → valor nulo.
+- undefined → variable sin definir.
+- symbol → valores únicos.
+- bigint → números enteros muy grandes.
+
+--- 
+
+## 9. ¿Cómo funcionan las estructuras de control de flujo como if, else, switch y bucles en JavaScript?
+Las estructuras de control de flujo determinan el orden de ejecución del código.
+- if / else → ejecutan bloques de código dependiendo de una condición.
+- switch → elige entre varios casos posibles.
+- Bucles:
+   - for → repite un bloque de código un número definido de veces.
+   - while → repite mientras la condición sea verdadera.
+   - do…while → ejecuta al menos una vez y luego evalúa la condición.
+
+   ---
+
+   
