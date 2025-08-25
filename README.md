@@ -31,5 +31,29 @@ Un atributo es información adicional que modifica el comportamiento de una etiq
 - `href` → Enlace de un hipervínculo.
 - `alt` → Texto alternativo para imágenes.
 
+---
 
+## 4. ¿Qué es CSS y cómo se utiliza para el diseño web?
+CSS (Cascading Style Sheets) es el lenguaje que define la apariencia de los elementos HTML. Permite dar colores, fuentes, tamaños, márgenes, alineación, animaciones y diseño responsivo a una página web.
+
+
+---
+
+## 5. ¿Qué es una propiedad en CSS y menciona las propiedades más comunes?
+Una propiedad en CSS define un aspecto visual de un elemento.
+**Ejemplos:**
+- color (color de texto).
+- background-color (color de fondo).
+- font-size (tamaño de fuente).
+- margin y padding (espacios externos e internos).
+- border (bordes de elementos).
+
+---
+
+## 6. ¿Qué es un selector en CSS y cuáles tipos existen?
+Un selector en CSS es el patrón que se usa para seleccionar los elementos HTML a los que se les aplicarán los estilos. Es el "quién" del estilo. Existen varios tipos de selectores, como:
+* **Selector de tipo/elemento:** Selecciona elementos por su nombre de etiqueta (ej. `p`, `h1`).
+* **Selector de clase:** Selecciona elementos por su atributo `class` (ej. `.mi-clase`).
+* **Selector de ID:** Selecciona un elemento único por su atributo `id` (ej. `#mi-id`).
+* **Selector de atributos:** Selecciona elementos que tienen un atributo específico.
 
