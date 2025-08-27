@@ -107,19 +107,19 @@ Son valores externos al código que se usan para configurar el entorno de ejecuc
 
 ---
 
-**12. ¿Qué son las herramientas de desarrollo de Chrome y cómo se accede a ellas?**
+## 12. ¿Qué son las herramientas de desarrollo de Chrome y cómo se accede a ellas?**
 
 Las herramientas de desarrollo de Chrome (Chrome DevTools) son un conjunto de herramientas integradas en el navegador para inspeccionar y depurar páginas web. Se accede a ellas con `Ctrl` + `Shift` + `I` (Windows/Linux) o `Cmd` + `Opt` + `I` (macOS), o haciendo clic derecho en la página y seleccionando "Inspeccionar".
 
 ---
 
-**13. ¿Qué se puede hacer en el panel "Elements" de las herramientas de desarrollo?**
+## 13. ¿Qué se puede hacer en el panel "Elements" de las herramientas de desarrollo?**
 
 El panel "Elements" permite inspeccionar y modificar el DOM (HTML) y los estilos (CSS) de una página en tiempo real. Puedes editar el texto, los atributos o las reglas CSS para ver el efecto de inmediato.
 
 ---
 
-**14. ¿Cómo se utiliza el panel "Console" de las herramientas de desarrollo y para qué es útil?**
+## 14. ¿Cómo se utiliza el panel "Console" de las herramientas de desarrollo y para qué es útil?**
 
 El panel "Console" es un entorno de línea de comandos de JavaScript útil para depurar código (ver errores y registros con `console.log()`), realizar pruebas rápidas y monitorear mensajes del navegador.
 
